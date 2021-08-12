@@ -1,0 +1,5 @@
+*.log
+dir/
+static/
+static/dir/Text Document.txt
+
